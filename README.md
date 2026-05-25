@@ -108,30 +108,6 @@ open index.html   # macOS
 | Discord           | Real-time chat, pair programming     |
 | GSSoC Mentors     | Onboarding help, code reviews        |
 ---
-## 🤝 Contributing
-We welcome contributions of all kinds!
-
-Fork the repository
-
-Create a new branch
-
-Make your changes
-
-Create a pull request with a meaningful description
-
-Please read our CONTRIBUTING.md for detailed guidelines.
-
----
-
-## 📄 License
-This project is open source and available under the MIT License.
-
----
-
-## 🌟 Acknowledgment
-This project is a part of GirlScript Summer of Code (GSSoC). We're glad to support first-time contributors and open-source learners!
-
-
 
 
 ⭐ If you like this project, don’t forget to star the repo and contribute!
